@@ -1,0 +1,23 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "chromebook management system",
+  "main": "index.js",
+  "dependencies": {
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoun17/cms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoun17/cms/issues"
+  },
+  "homepage": "https://github.com/Antoun17/cms#readme"
+}
