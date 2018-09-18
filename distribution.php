@@ -9,7 +9,7 @@
 <div class="container">
 
 
-  <form action="/resources/config.php" method="post" style="padding-top: 50px;">
+  <form action="/includes/dist.inc.php" method="post" style="padding-top: 50px;">
 
     <div class="form-group w-50 p-3" style="background-color: #eee; padding-top: 20px; padding-bottom: 40px;" >
       <label>Date:</label>
