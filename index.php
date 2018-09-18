@@ -6,11 +6,6 @@
     <?php include 'includes/nav.inc.php'; ?>
     <title>CMS</title>
 
-    <script src="/node_modules/jquery/dist/jquery.js" charset="utf-8"></script>
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
-    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
-    <script src="/node_modules/popper.js/dist/popper.js" charset="utf-8"></script>
-
   </head>
 
   <style>
@@ -27,3 +22,8 @@
 
   </body>
 </html>
+
+<script src="/node_modules/jquery/dist/jquery.js" charset="utf-8"></script>
+<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+<script src="/node_modules/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
+<script src="/node_modules/popper.js/dist/popper.js" charset="utf-8"></script>
