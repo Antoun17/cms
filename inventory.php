@@ -1,4 +1,5 @@
 <h1>Inventory Form</h1>
+<?php include 'includes/nav.inc.php'; ?>
 
 <div class="container">
 
@@ -38,7 +39,7 @@
 
 </form>
 
-<form class="" action="resources/updateinv.php" method="post">
+<form class="" action="includes/updateinv.php" method="post">
   <div class="submitbuttons" style="padding-top: 30px;">
     <button type="submit" class="btn btn-primary">Submit</button>
   </div>
@@ -89,7 +90,6 @@ mysqli_close($con);
 
 </div>
 
-<?php include 'includes/nav.inc.php'; ?>
 <script src="/node_modules/jquery/dist/jquery.js" charset="utf-8"></script>
 <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>

@@ -1,4 +1,5 @@
 <h1>Distribution Form</h1>
+<?php include 'includes/nav.inc.php'; ?>
 
 <div class="container">
 
@@ -106,7 +107,6 @@ mysqli_close($con);
 
 </div>
 
-<?php include 'includes/nav.inc.php'; ?>
 <script src="/node_modules/jquery/dist/jquery.js" charset="utf-8"></script>
 <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
