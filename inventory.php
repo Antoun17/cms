@@ -39,7 +39,7 @@
 
 </form>
 
-<form class="" action="includes/updateinv.php" method="post">
+<form class="" action="includes/updateinv.inc.php" method="post">
   <div class="submitbuttons" style="padding-top: 30px;">
     <button type="submit" class="btn btn-primary">Submit</button>
   </div>
